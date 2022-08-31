@@ -6,7 +6,11 @@
 
 https://Kelvinthedrugger.github.io/JB2NB/
 
-# My Blog
+# TODO
+
+start the project with a less config file one sounds like the way we want to go?
+
+# My Blog (Generated from fastpages)
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
